@@ -15,8 +15,13 @@ Vedio: [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step
 
 ## Angular
 
+1. [Rangle's Angular Training Book-web](https://angular-2-training-book.rangle.io/handout/architect/functional_forms.html)
+2. [Rangle's Angular Training Book-github](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
+
 
 ## iOS
+
+
 
 
 
