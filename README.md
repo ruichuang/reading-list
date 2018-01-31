@@ -4,7 +4,7 @@
 1. [vue2 + vue-router + vuex](https://github.com/bailicangdu/vue2-happyfri)
 2. [vue2-elm](https://github.com/bailicangdu/vue2-elm)
 3. [一个 react + redux 的完整项目 和 个人总结](https://github.com/bailicangdu/react-pxq)
-4. [聊聊我对现代前端框架的认知](https://juejin.im/entry/5a6eb63d6fb9a01c952658ba?utm_source=gold_browser_extension)
+4. [聊聊我对现代前端框架的认知](https://juejin.im/entry/5a6e91ce51882573256c0f53?utm_source=gold_browser_extension)
 
 Vedio: [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/21?autoplay=true)
 
